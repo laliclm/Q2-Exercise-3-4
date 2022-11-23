@@ -1,0 +1,66 @@
+#div1{
+	border-style: double;
+	border-color: #3E2D0E;
+	border-width: 30px;
+    border-radius: 55px;
+	margin: 15%;
+	padding: 12%;
+	align: center;
+    background-color:#806F4F;
+     }
+     #product{
+	font-family: 'Comfortaa', bold;
+	font-size: 14pt;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+       }
+        #price{
+        	margin-top: 25px;
+        	margin-bottom: 25px;
+        	font-family: 'Comfortaa', bold;
+        	font-size:100pt;
+        	text-align: center;
+        }
+        body{
+        	background-color: #724C43;
+        }
+        img{
+        	height: 75%;
+        	width: 75%;
+        	margin-left: 65px;
+        	margin-right: 100px;
+            border: 5px double #5B4927;
+        	border-radius: 20px;
+        	padding: 10px;
+        }
+        h4{
+        	font-family: 'Comfortaa', bold;
+            font-size: 54pt;
+            text-align: center;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            color: #5B4927;
+        }
+        
+        fieldset{
+            background-color: #A06959;
+            color: #5F2929;
+            border: 7px double #603333;
+            border-radius: 25px;
+        }
+        button{
+        	border: 7px double #603333;
+        	border-radius: 100px;
+        	display: inline-black;
+        	padding: 12px;
+        	color: #5F2929;
+        	background-color: #A06959;
+        	text-align: center;
+        	cursor: pointer;
+        	width: 100%;
+            font-size: 18px;
+        }
+        hr{
+            outline: 7px double #5B4927;
+        }
